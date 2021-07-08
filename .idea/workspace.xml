@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="855046b8-4d2f-4f65-9a26-ab070f52f656" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="855046b8-4d2f-4f65-9a26-ab070f52f656" name="Default Changelist" comment="Express Assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,12 +34,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625727014559</updated>
-      <workItem from="1625727015632" duration="2705000" />
+      <workItem from="1625727015632" duration="3004000" />
     </task>
+    <task id="LOCAL-00001" summary="Express Assignment">
+      <created>1625729779124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625729779124</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Express Assignment">
+      <created>1625729851493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625729851493</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Express Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Express Assignment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2057" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625728712211">
@@ -60,5 +77,13 @@
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2104" y="8" key="SettingsEditor/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1625728675769" />
+    <state x="2195" y="93" key="Vcs.Push.Dialog.v2" timestamp="1625729865143">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2195" y="93" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1625729865143" />
+    <state x="2429" y="266" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625729952648">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2429" y="266" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1625729952648" />
   </component>
 </project>
